@@ -11,7 +11,7 @@ This repository contains the codebase for Project 2 at JKU Linz NO.
 
 | Student ID | First Name | Last Name | E-Mail                   | Workload [%] |
 |------------|------------|-----------|--------------------------|--------------|
-|    |      |   | @gmail.com | [TODO]       |
-|    |        |      |    | [TODO]       |
-|    |       |  | @gmail.com    | [TODO]       |
+|    |   Ilia Tavadze   |   | | [TODO]       |
+|    |   Andreas Helmut Jelenc     |      |    | [TODO]       |
+|    |   Wolfram Laube    |  |    | [TODO]       |
 | 11806541   | Samuel     | Darenskiy | samdarenskiy@gmx.at      | [TODO]       |
