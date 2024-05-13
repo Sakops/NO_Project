@@ -13,6 +13,6 @@ This repository contains the codebase for Project 2 at JKU Linz NO.
 |------------|------------|-----------|--------------------------|--------------|
 |    |   Ilia Tavadze   |   | | [TODO]       |
 |    |   Andreas Helmut Jelenc     |      |    | [TODO]       |
-|    |   Wolfram Laube    |  |    | [TODO]       |
+|  08900915  |   Wolfram     | Laube |  wolfram.laube@blauweiss-edv.at  |  Task 3 [99%]  |
 | 11806541   | Samuel     | Darenskiy | samdarenskiy@gmx.at      | [TODO]       |
 |    | Yasaman | Afsharnaderi | yasaman.afshaar@gmail.com        |              |
